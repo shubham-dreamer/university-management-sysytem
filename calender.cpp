@@ -24,7 +24,7 @@ void student_submit_assignment(string);
 void student_view_result(string);
 class Faculty{
 	char uid[10];
-	char password[20];
+	char pass[20];
 	public:	
 		void create(){
 		cout<<"Enter uid/registration no : ";
