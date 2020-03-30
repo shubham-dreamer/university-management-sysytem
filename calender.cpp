@@ -40,7 +40,7 @@ class Faculty{
 	    	return password;
 		}
 };
-//this is the student class
+//this is the student class very important class
 class Student{
 	char reg[10];
 	char password[20];
