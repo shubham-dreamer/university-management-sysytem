@@ -59,6 +59,7 @@ public:
 	    	return password;
 		}
 };
+//this is class for facult task
 class Faculty_task{	
 	int task_no;
 	char task[150];
